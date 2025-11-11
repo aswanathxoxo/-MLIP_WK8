@@ -1,0 +1,10 @@
+artifact_location: file:///workspaces/-MLIP_WK8/mlruns/233307613397705500/models/m-292d980c66294b939f53c2d5f96f4bc1/artifacts
+creation_timestamp: 1762862220878
+experiment_id: '233307613397705500'
+last_updated_timestamp: 1762862223549
+model_id: m-292d980c66294b939f53c2d5f96f4bc1
+model_type: null
+name: LinearRegression
+source_run_id: 250fa938478349eebd3bbfc921247d15
+status: 2
+status_message: null

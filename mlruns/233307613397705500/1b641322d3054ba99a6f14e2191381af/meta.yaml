@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/-MLIP_WK8/mlruns/233307613397705500/1b641322d3054ba99a6f14e2191381af/artifacts
+end_time: 1762862247786
+entry_point_name: ''
+experiment_id: '233307613397705500'
+lifecycle_stage: active
+run_id: 1b641322d3054ba99a6f14e2191381af
+run_name: XGBoost
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762862245079
+status: 3
+tags: []
+user_id: codespace

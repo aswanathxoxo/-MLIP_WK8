@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/-MLIP_WK8/mlruns/233307613397705500/250fa938478349eebd3bbfc921247d15/artifacts
+end_time: 1762862223551
+entry_point_name: ''
+experiment_id: '233307613397705500'
+lifecycle_stage: active
+run_id: 250fa938478349eebd3bbfc921247d15
+run_name: LinearRegression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762862220848
+status: 3
+tags: []
+user_id: codespace

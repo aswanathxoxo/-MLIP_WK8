@@ -1,0 +1,10 @@
+artifact_location: file:///workspaces/-MLIP_WK8/mlruns/233307613397705500/models/m-0576355eb195418ebdf31c2a6d36a8b7/artifacts
+creation_timestamp: 1762862242935
+experiment_id: '233307613397705500'
+last_updated_timestamp: 1762862245069
+model_id: m-0576355eb195418ebdf31c2a6d36a8b7
+model_type: null
+name: RandomForest
+source_run_id: 47591108cdba4c6e89cab42818b23d21
+status: 2
+status_message: null

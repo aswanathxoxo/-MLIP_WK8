@@ -1,0 +1,10 @@
+artifact_location: file:///workspaces/-MLIP_WK8/mlruns/233307613397705500/models/m-571b06c5e4a44dfd8fbde0a36870460c/artifacts
+creation_timestamp: 1762862245892
+experiment_id: '233307613397705500'
+last_updated_timestamp: 1762862247784
+model_id: m-571b06c5e4a44dfd8fbde0a36870460c
+model_type: null
+name: XGBoost
+source_run_id: 1b641322d3054ba99a6f14e2191381af
+status: 2
+status_message: null
